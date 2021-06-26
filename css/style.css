@@ -1,0 +1,71 @@
+/*********************Tag Selectors******************/
+
+body {
+  background-color: #fffbdf;
+}
+
+hr {
+  /* top | right | bottom | left */
+  border-style: none none dotted none;
+  border-color: #e4bad4;
+  border-width: 5px;
+  padding: 1% 0;
+  width:15%;
+}
+
+h1{
+  color: #413c69;
+  padding: 3% 0;
+}
+
+h3{
+  color: #4a47a3;
+}
+
+td{
+  vertical-align: top;
+}
+
+/*********************Class Selectors******************/
+
+.richard{
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+}
+
+.experience{
+  vertical-align: text-top;
+  width: 90%;
+}
+
+.sureimages{
+  text-align: center;
+}
+
+.sureposter{
+  height: 800px;
+  position: absolute;
+}
+
+.contact{
+  padding: 3% 0;
+}
+
+.python{
+  margin: 0 0 0 10%;
+  text-align: center;
+  width: 80%;
+}
+
+.LaTex{
+  text-align: center;
+}
+
+.bulk{
+  text-align: center;
+}
+
+.bulkgraph{
+  width: 90%
+}
